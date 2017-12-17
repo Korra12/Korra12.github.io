@@ -1740,8 +1740,8 @@ body {
   }
 }
 .cid-qDSJP51Znu {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1765,6 +1765,9 @@ body {
 }
 .cid-qDSJP51Znu H1 {
   color: #2e2e2e;
+}
+.cid-qDSJP51Znu H3 {
+  color: #ffffff;
 }
 .cid-qDRGxrs3cD {
   padding-top: 15px;
