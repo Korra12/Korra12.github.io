@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "korra_darling",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1247,8 +1247,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/1h4a6066-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1h4a6066-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1h4a0169-66222-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1h4a0169-66222-1920x1080-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Эскиз №5",
